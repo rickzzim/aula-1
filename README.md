@@ -1,4 +1,4 @@
-# aula-1
+# aula 1
 Este notebook Colab explora conceitos fundamentais no processamento de sinais de áudio, abrangendo desde a geração de tons puros e sinais chirp até a simulação acústica de ambientes utilizando convolução. Ele serve como uma ferramenta prática para visualizar e ouvir como diferentes parâmetros de áudio afetam a percepção sonora e as representações no domínio do tempo.
 
 Conteúdo do Notebook:
